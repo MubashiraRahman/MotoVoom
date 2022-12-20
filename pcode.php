@@ -35,12 +35,12 @@
 
 						 mysqli_query($conn, $pcode_query);
 
-						 header('location: run.php');
+						 header('location: cond.php');
 
               }
 
               else{
 
-                          header('location: contact.php');
+                          header('location: pay.php');
 
               }
