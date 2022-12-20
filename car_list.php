@@ -19,9 +19,8 @@
 		<div class="row">  
 			<div class="col-md-2" style="font-size: 30px;color:#FFFFFF;"> MotoVroom </div>
 			<div class="col-md-10" style="text-align: right"> 
-				<a href="#"> Home </a> 
-				<a href="#" style="margin-left: 20px;"> Car Book </a> 
-				<a href="#" style="margin-left: 20px;"> Contact  </a> 
+				<a href="#"> Choose your car </a> 
+				 
 			</div>
 		</div>
 	</section>
@@ -59,6 +58,8 @@
 				}					
 			}
 			?>
+			
+			<a href="html.php"><button class="btn">Book Car</button></a>
 			
 		</div>
 		
