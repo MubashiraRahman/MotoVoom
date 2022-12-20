@@ -19,10 +19,8 @@
 		<div class="row">  
 			<div class="col-md-2" style="font-size: 30px;color:#FFFFFF;"> MotoVroom </div>
 			<div class="col-md-10" style="text-align: right"> 
-				<a href="#"> Home </a> 
-				<a href="#" style="margin-left: 20px;"> Car List </a> 
-				<a href="#" style="margin-left: 20px;"> Car book </a>
-				<a href="#" style="margin-left: 20px;"> Contact  </a> 
+				<a href="#"> Book your car now! </a> 
+				
 			</div>
 		</div>
 	</section>
