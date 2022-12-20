@@ -46,7 +46,7 @@ Payment:
 
 <tr>
 
-<input type="submit" value="Done" /></td>
+<a href="pay.php"><button class="btn">Done</button></a>
 
 </tr>
 
