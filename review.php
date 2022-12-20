@@ -45,7 +45,7 @@
               </div>
 
               <p>
-                Not o good but not so bad.
+                Not so good but not so bad.
               </p>
             </div>
           </div>
@@ -68,7 +68,8 @@
 			  
 			  <tr>
 
-<input type="submit" value="Done" /></td>
+<a href="cous.php"><button class="btn">Want to tell us something?</button></a>
+<body background="https://images8.alphacoders.com/568/568490.jpg">
 
 </tr>
 
