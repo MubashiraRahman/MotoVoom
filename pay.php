@@ -87,9 +87,10 @@
     
         </div>
 
-        <input type="submit" value="proceed to checkout" class="submit-btn">
+        <input type="submit" value="Pay Now" class="submit-btn">
 
     </form>
+	
 
 </div>    
     
