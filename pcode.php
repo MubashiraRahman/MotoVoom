@@ -41,6 +41,6 @@
 
               else{
 
-                          header('location: review.php');
+                          header('location: contact.php');
 
               }
