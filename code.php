@@ -23,7 +23,7 @@
 
 						 mysqli_query($conn, $code_query);
 
-						 header('location: pay.php');
+						 header('location: run.php');
 
               }
 
